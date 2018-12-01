@@ -1,0 +1,41 @@
+{
+  "carrer":{
+    "info":"To work in an environment we can utilize my skills and knowledge and also improve them"
+
+          },
+          "education":[
+            {
+            "Degree":"B.tech(IT)",
+            "Institution":"VignanNirula",
+            "YOP":"2020",
+            "Percentage":"90"
+          },
+          {
+          "degree":"Intermediate",
+          "Institution":"Narayana",
+          "YOP":"2016",
+          "Percentage":"95"
+        },
+        {
+        "degree":"School",
+        "Institution":"SriChaitanya",
+        "YOP":"2014",
+        "Percentage":"9.2"
+      }
+    ],
+    "skills":[
+      {
+        "title":"platform",
+        "content":"windows"
+      },
+      {
+        "title":"Programming Languages",
+        "content":"C,Java,HTML,CSS,JS"
+      },
+      {
+        "title":"Database",
+        "content":"mysql,mongodb"
+      }
+    ],
+    "Languages":"Telugu,English,Hindi"
+          }
